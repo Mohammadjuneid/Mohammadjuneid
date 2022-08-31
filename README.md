@@ -1,4 +1,5 @@
-<img width="289" alt="Screenshot 2022-03-10 at 5 00 07 PM" src="https://user-images.githubusercontent.com/107539121/187739265-9ae6ffdc-f3cf-49fe-9ae8-79dd3c9dd450.png">
+![Screenshot 2022-03-10 at 5 00 07 PM](https://user-images.githubusercontent.com/107539121/187739781-78caf573-36bf-4486-8160-2a5cfb846dc9.jpg)
+
 
 - 👋 Hi, I’m @Mohammadjuneid
 - 👀 I’m interested in Data Science, Quantitative Research...
