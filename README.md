@@ -1,4 +1,4 @@
-![Screenshot 2022-03-10 at 5 00 07 PM](https://user-images.githubusercontent.com/107539121/187739781-78caf573-36bf-4486-8160-2a5cfb846dc9.jpg)
+<img width="136" alt="8E47738C-E602-4E80-B985-0C892ACCF116" src="https://user-images.githubusercontent.com/107539121/187740230-45688a6d-ee80-4d6e-9732-aadd8f6b2d3d.PNG">
 
 
 - 👋 Hi, I’m @Mohammadjuneid
