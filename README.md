@@ -1,4 +1,4 @@
-<img width="136" alt="8E47738C-E602-4E80-B985-0C892ACCF116" src="https://user-images.githubusercontent.com/107539121/187740230-45688a6d-ee80-4d6e-9732-aadd8f6b2d3d.PNG">
+<h1 align="center"><img width="136" alt="8E47738C-E602-4E80-B985-0C892ACCF116" src="https://user-images.githubusercontent.com/107539121/187740230-45688a6d-ee80-4d6e-9732-aadd8f6b2d3d.PNG">
 
 
 <h1 align="center">Hi 👋, I'm Mohammadjuneid</h1>
